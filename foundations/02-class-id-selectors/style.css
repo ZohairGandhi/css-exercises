@@ -1,0 +1,18 @@
+.bg-change {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#larger-font {
+    font-size: 24px;
+}
+
+#element-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.element-four {
+    background-color: #90ee90;
+    font-weight: bold;
+}
